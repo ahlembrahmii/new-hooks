@@ -1,0 +1,24 @@
+.Add-Modal,
+label {
+  font-family: "Times New Roman", Times, serif;
+  font: 0.8em;
+}
+.Add-Modal,
+input,
+textarea {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 2px solid #ccc;
+  box-sizing: border-box;
+}
+.Add-Modal,
+button {
+  background-color: rgb(170, 209, 241);
+  color: rgb(19, 18, 18);
+  padding: 15px 20px;
+  margin: 8px 0;
+  cursor: pointer;
+  width: 100%;
+}
